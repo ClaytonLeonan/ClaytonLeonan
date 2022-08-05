@@ -1,9 +1,4 @@
-## Hello, my name is Clayton
-
-
-- 😄 Meu nome é Clayton Lima, o "Leonan" é um sobrenome em homenagem ao meu irmão...
-- 🌱 Estou estudando JavaScript
-- 📫 Meu email: clayton.leonan@gmail.com
+## Hello, my name is Clayton and... Where is my coffe? 
 
 <div align="center">
   <a href="https://github.com/ClaytonLeonan"> 
