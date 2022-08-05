@@ -1,5 +1,5 @@
 ## Olá, Eu sou o Clayton Lima
-<div align="center">
+<div>
   <a href="https://github.com/ClaytonLeonan"> 
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ClaytonLeonan&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ClaytonLeonan&layout=compact&langs_count=7&theme=tokyonight"/>
