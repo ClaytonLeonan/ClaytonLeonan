@@ -2,12 +2,12 @@
 <p> Desenvolvedor Front-end</p></div>
  
  ### 😁Sobre mim:
-  *Olá tenho 21 anos, sou de Osasco-Sp e estou a caminho de ser um programador Full-Stack.*
+  *Olá tenho 23 anos, sou de Osasco-Sp e estou a caminho de ser um programador Full-Stack.*
   
   <p>
-  - 😊 O "Leonan" é em homenagem a meu irmão<br>
+  - 😊 O "Leonan" é em homenagem ao meu irmão<br>
   - 😛 Atualmente estou aprendendo JavaScript<br>
-  - 👨🏾‍💻 Adquiro conhecimentos de programação na @DevMedia e @UNINNOVE</p>
+  - 👨🏾‍💻 Adquiro conhecimentos de programação na @alura</p>
  
  ### 📈 Objetivos:
  - [x] Começar os estudos em programação
