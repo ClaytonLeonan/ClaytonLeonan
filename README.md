@@ -6,7 +6,7 @@
   
   <p>
   - 😊 O "Leonan" é em homenagem ao meu irmão<br>
-  - 😛 Atualmente estou aprendendo JavaScript<br>
+  - 🤨 Atualmente estou aprendendo JavaScript<br>
   - 👨🏾‍💻 Adquiro conhecimentos de programação na @alura</p>
  
  ### 📈 Objetivos:
