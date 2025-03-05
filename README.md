@@ -1,17 +1,17 @@
 <div align="center"> <h1> Olá, Eu sou o Clayton Lima </h1>
-<p> Desenvolvedor Front-end</p></div>
+<p> Desenvolvedor </p></div>
  
  ### 😁Sobre mim:
-  *Olá tenho 23 anos, sou de Osasco-Sp e estou a caminho de ser um programador Full-Stack.*
+  *Olá tenho 24 anos, sou de Osasco-Sp e estou a caminho de ser um programador Full-Stack.*
   
   <p>
   - 😊 O "Leonan" é em homenagem ao meu irmão<br>
   - 🤨 Atualmente estou aprendendo JavaScript<br>
-  - 👨🏾‍💻 Adquiro conhecimentos de programação na @alura</p>
+  - 👨🏾‍💻 Adquiro conhecimentos de programação </p>
  
  ### 📈 Objetivos:
  - [x] Começar os estudos em programação
- - [ ] Aprender a base de Front-end (HTML, CSS, JS e Algum Framework)
+ - [x] Aprender a base de Front-end (HTML, CSS, JS e Algum Framework)
  - [ ] Aprender a base de Back-end
  - [ ] Trabalhar na área
  - [ ] Fazer Upgrades nos meus projetos de acordo com as tecnologias aprendidas
