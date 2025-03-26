@@ -6,8 +6,8 @@
   
   <p>
   - 😊 O "Leonan" é em homenagem ao meu irmão<br>
-  - 🤨 Atualmente estou aprendendo JavaScript<br>
-  - 👨🏾‍💻 Adquiro conhecimentos de programação </p>
+  - 🤨 Atualmente estou aprendendo a liguagem Java<br>
+  - 👨🏾‍💻 Adquirindo conhecimentos de programação </p>
  
  ### 📈 Objetivos:
  - [x] Começar os estudos em programação
